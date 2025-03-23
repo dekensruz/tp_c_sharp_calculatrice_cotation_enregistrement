@@ -17,7 +17,7 @@ namespace Calulette
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Enregistrement());
+            Application.Run(new Calculette());
 
         }
     }

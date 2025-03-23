@@ -1,6 +1,6 @@
 ﻿namespace Calulette
 {
-    partial class Form1
+    partial class Calculette
     {
         /// <summary>
         /// Required designer variable.

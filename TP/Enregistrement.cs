@@ -58,5 +58,10 @@ namespace Calulette
                 MessageBox.Show("Veuillez sélectionner une ligne à modifier.", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void Enregistrement_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
